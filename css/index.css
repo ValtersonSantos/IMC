@@ -1,0 +1,40 @@
+body{
+    background: linear-gradient(to bottom, rgb(59, 163, 32), #021b15);
+    margin: 56px auto;
+    
+    
+    
+}
+
+
+.img{
+    display: block;
+    max-width: 33%;
+    margin: 56px auto 0px;
+    padding: 0 24px;
+
+    
+
+    
+
+}
+
+.conteiner{
+    display: block;
+    max-width: 250px;
+    margin: 56px auto;
+    padding:  30px;
+    background-color:rgb(247, 246, 246);
+    border-radius: 5%; 
+    
+    
+}
+
+.btn{
+    
+    background-color:rgb(255, 255, 255);
+    color:black;
+    box-shadow: 0.1 1px 20px ;
+    width: 30%;
+    border-radius: 5px;
+}
